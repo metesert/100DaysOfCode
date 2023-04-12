@@ -1,3 +1,3 @@
 # 100DaysOfCode Course Projects
 
-## Project1 = Band Name Generator
+### Project1 = Band Name Generator
